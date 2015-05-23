@@ -126,7 +126,6 @@ def main():
         ])
 
     search_jobs.job_results()
-    time.sleep(60)
 
 if __name__ == '__main__':
     main()
