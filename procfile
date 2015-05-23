@@ -1,1 +1,1 @@
-web: python search_jobs.py 
+web: python app.py 
