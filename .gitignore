@@ -1,3 +1,4 @@
 results.txt
 build/*
 lib/*
+__pycache__/*
