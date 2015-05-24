@@ -10,6 +10,7 @@ def main():
 @app.route('/job_search')
 def search_jobs_():
     search_jobs.main()
+    return "Jobs Searched"
 
 @app.route('/view_jobs')
 def view_jobs():
