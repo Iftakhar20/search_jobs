@@ -122,6 +122,9 @@ def main():
         'http://www.gulftalent.com/home/recruitment-and-jobs-in-qatar-1.html',
         'http://www.gulftalent.com/home/recruitment-and-jobs-in-qatar-2.html',
         'http://www.gulftalent.com/home/recruitment-and-jobs-in-qatar-3.html',
+        'http://www.gulftalent.com/home/recruitment-and-jobs-in-saudi-arabia-1.html',
+        'http://www.gulftalent.com/home/recruitment-and-jobs-in-saudi-arabia-2.html',
+        'http://www.gulftalent.com/home/recruitment-and-jobs-in-saudi-arabia-3.html',
         'http://www.inspireselection.com/candidate/vaclist.asp?search=-1'
         ])
 
